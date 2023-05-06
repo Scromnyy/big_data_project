@@ -14,6 +14,6 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version  
 
 # Настройка и подключение:
-1. Скачаиваем архив с GitHub и закидываем в папку  
+1. Скачаиваем архив с GitHub и разархивируем его в home 
 2. Скачиваем csv файлы с гугл диска по ссылке: https://drive.google.com/drive/folders/18oo2jku32MjNNKX1X3WQzZU3OKvjoAgy?usp=sharing и затем переносим эти файлы в папку csvfiles  
 3.
