@@ -12,3 +12,8 @@ sudo systemctl status docker
 sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose  
 sudo chmod +x /usr/local/bin/docker-compose  
 docker-compose --version  
+
+# Настройка и подключение:
+1. Скачаиваем архив с GitHub и закидываем в папку  
+2. Скачиваем csv файлы с гугл диска по ссылке: https://drive.google.com/drive/folders/18oo2jku32MjNNKX1X3WQzZU3OKvjoAgy?usp=sharing и затем переносим эти файлы в папку csvfiles  
+3.
