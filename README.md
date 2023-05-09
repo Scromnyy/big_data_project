@@ -19,7 +19,7 @@ docker-compose --version
 3. Поднимаем docker-compose (cd hive; sudo docker-compose up)  
 4. Переходим в dbeaver и устанавливаем коннект с базой Postgres (host:localhost; database:postgres; username:savelovba; password:123)  
 5. Переходим в vscode, открываем папку python_scripts
-6. Далее по очереди запускам скрипты
+6. Далее по очереди запускам скрипты  
 1 скрипт - создание таблиц в БД  
 2 скрипт - заполнение таблиц в БД  
 3 скрипт - очистка данных (from stg to dds)  
